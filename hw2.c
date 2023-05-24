@@ -26,6 +26,7 @@ char *filetype(unsigned char type) {
   return str;
 }
 
+
 // reffered from https://code-vault.net/lesson/18ec1942c2da46840693efe9b526daa4
 //https://www.youtube.com/watch?v=j9yL30R6npk
 
